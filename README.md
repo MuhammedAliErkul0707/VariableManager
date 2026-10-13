@@ -21,3 +21,8 @@ A professional, portable, and persistent key-value variable management desktop a
 1. Download the `.exe` file using the button above.
 2. Run it anywhere on your Windows system.
 3. Save, lookup, and manage your variables instantly!
+
+### ⚠️ About the Windows SmartScreen Warning
+Our application is open-source and contains no malicious code.
+However, Windows may display a warning because it is not digitally signed due to the associated costs.
+To run it safely, you can click the "More info" button and select the "Run anyway" option.
